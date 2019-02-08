@@ -31,14 +31,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+It is a programming interface for HTML, that allows a page to be changed and manipulated using a scripting language like JavaScript.
 
 2. What is an event?
+An event is a trigger that takes place when a user does something on a wepage that is detected. 
 
 3. What is an event listener?
+A method that uses callbacks for a selected element.
 
 4. Why would we convert a NodeList into an Array?
+To use some array advanced methods.
 
 5. What is a component?
+A component is a modular set of imformation,styles,behaviors.
 
 ### Git Set up
 
